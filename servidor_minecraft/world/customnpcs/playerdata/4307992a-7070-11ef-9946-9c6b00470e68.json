@@ -1,0 +1,41 @@
+{
+    "bodyColor": 0,
+    "eyesColor": 0,
+    "ItemGiversList": [
+    ],
+    "body": 0,
+    "isActive": 0b,
+    "DialogData": [
+    ],
+    "leg": 0,
+    "hair": 0,
+    "MailData": [
+    ],
+    "PlayerName": "Chukuskuz",
+    "hairColor": 0,
+    "UUID": "4307992a-7070-11ef-9946-9c6b00470e68",
+    "ScriptStoreddata": {
+    },
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+    ],
+    "BankData": [
+    ],
+    "jacket": 0,
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "shoes": 0,
+    "ItemGiverChained": [
+    ],
+    "isMale": 0b,
+    "face": 0,
+    "peculiarities": [I;]
+}
